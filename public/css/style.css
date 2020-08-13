@@ -1,0 +1,38 @@
+.container-fluid{
+    width: 100vw;
+    height: 100vh;
+}
+
+#cadAlunos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   margin-bottom: 10px;
+}
+
+.form-control{
+    width: 500px;
+}
+
+
+#colAlunos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card button{
+    margin-top: 10px;
+}
+
+#cadProfessores{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#colProfessores{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}   
