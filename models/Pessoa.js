@@ -1,6 +1,6 @@
-//define teachers table (Aqui definiremos nossa tabela de professores)
+//define people table (Aqui definiremos nossa tabela de professores e alunos)
 
-const Sequelize = require('sequelize')
+ Sequelize = require('sequelize')
 const connection = require('./database')
 const { STRING } = require('sequelize')
 
