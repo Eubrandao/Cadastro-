@@ -1,2 +1,7 @@
 # Crud
-Crud básico(select e insert) utilizando o sequelize no nodeJs
+Projeto de criação de um crud básico(Select e insert) no NodeJs.
+Utilizei:
+-Express
+-Ejs
+-Sequelize
+-Bootstrap
